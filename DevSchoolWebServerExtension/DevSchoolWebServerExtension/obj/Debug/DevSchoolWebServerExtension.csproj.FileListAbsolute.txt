@@ -1,0 +1,8 @@
+D:\Games\C#\DevSchoolWebServerExtension\DevSchoolWebServerExtension\obj\Debug\DevSchoolWebServerExtension.csproj.AssemblyReference.cache
+D:\Games\C#\DevSchoolWebServerExtension\DevSchoolWebServerExtension\obj\Debug\DevSchoolWebServerExtension.csproj.CoreCompileInputs.cache
+D:\Games\C#\bin\WebClientBin\DevSchoolWebServerExtension.dll.config
+D:\Games\C#\bin\WebClientBin\DevSchoolWebServerExtension.dll
+D:\Games\C#\bin\WebClientBin\DevSchoolWebServerExtension.pdb
+D:\Games\C#\DevSchoolWebServerExtension\DevSchoolWebServerExtension\obj\Debug\DevSchoolWebServerExtension.csproj.CopyComplete
+D:\Games\C#\DevSchoolWebServerExtension\DevSchoolWebServerExtension\obj\Debug\DevSchoolWebServerExtension.dll
+D:\Games\C#\DevSchoolWebServerExtension\DevSchoolWebServerExtension\obj\Debug\DevSchoolWebServerExtension.pdb
